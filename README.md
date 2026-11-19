@@ -1,11 +1,19 @@
 # Hi, I'm Mimshad Alam 👋
 
 ### GenAI Engineer | AI/ML Engineer | Python | SQL | RAG | AI Agents
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mimshad-alam-995a20230/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mimshad1999)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Solutions%3BGenerative+AI+%7C+RAG+%7C+Agentic+AI%3BFraud+Analytics+%7C+Machine+Learning)
+
+---
+
 ## 🚀 About Me
 
 I'm an AI/ML and Data Analytics professional with **2+ years of professional experience in Fraud Analytics and Data Analysis**.
 
-I combine real-world financial risk experience with hands-on development of AI-powered applications, machine learning solutions, RAG pipelines and multi-agent systems.
+I combine real-world financial risk experience with hands-on development of AI-powered applications, machine learning solutions, RAG pipelines, and multi-agent systems.
 
 - 🤖 Interested in Generative AI, LLMs, RAG and Agentic AI.
 - 🐍 Working with Python, SQL and Machine Learning.
@@ -16,8 +24,29 @@ I combine real-world financial risk experience with hands-on development of AI-p
 ## 🛠️ Tech Stack
 
 **Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
 **AI / ML / GenAI**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F)
+![RAG](https://img.shields.io/badge/RAG-0A7EA4)
+![LLMs](https://img.shields.io/badge/LLMs-purple)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
 **Tools & Frameworks**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+---
 
 ## 🌟 Featured Projects
 
@@ -74,19 +103,20 @@ SQL problem-solving and exploratory data analysis using Python and SQL.
 
 ## 📈 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=Mimshad1999&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Mimshad1999\&show_icons=true\&theme=tokyonight)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Mimshad1999&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimshad1999\&layout=compact\&theme=tokyonight)" height="165" /> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mimshad1999&show_icons=true&theme=tokyonight)
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=Mimshad1999&theme=tokyonight](https://streak-stats.demolab.com?user=Mimshad1999\&theme=tokyonight)" /> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimshad1999&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mimshad1999&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/mimshad-alam-995a20230/](https://www.linkedin.com/in/mimshad-alam-995a20230/)
-- **GitHub:** [https://github.com/Mimshad1999](https://github.com/Mimshad1999)
-- **Portfolio:** [https://mimshad.github.io/](https://mimshad.github.io/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mimshad-alam-995a20230/)
+- **GitHub:** [Mimshad1999](https://github.com/Mimshad1999)
+- **Portfolio:** [Visit Portfolio](https://mimshad.github.io/)
 
-\<p align="center">
-&#x20; \<b>Building practical AI solutions, one project at a time. 🚀\</b>
-\</p>
+---
 
+**Building practical AI solutions, one project at a time. 🚀**
